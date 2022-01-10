@@ -1,0 +1,26 @@
+.contenedores{
+    background-image: url(../img/nebula-en-el-universo_3840x2400_xtrafondos.com.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    height: 1000px;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.cajas{
+    background-image: url(../img/nebula-en-el-universo_3840x2400_xtrafondos.com.jpg);
+    width: 50%;
+    height: 80px;
+    margin-bottom: 5px;
+    border: 8px solid rgb(226, 241, 6);
+}
+
+h1{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
